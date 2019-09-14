@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameParserInClass", "NameParserInClass\NameParserInClass.csproj", "{DF5A334D-3B89-49F3-908E-D25C6622538D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameParserInClass", "NameParserInClass\NameParserInClass.csproj", "{DF5A334D-3B89-49F3-908E-D25C6622538D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameParserInClass.Tests", "NameParserInClass.Tests\NameParserInClass.Tests.csproj", "{0A36D351-79EE-48C0-98B4-E75B68012DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DF5A334D-3B89-49F3-908E-D25C6622538D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF5A334D-3B89-49F3-908E-D25C6622538D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF5A334D-3B89-49F3-908E-D25C6622538D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A36D351-79EE-48C0-98B4-E75B68012DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A36D351-79EE-48C0-98B4-E75B68012DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A36D351-79EE-48C0-98B4-E75B68012DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A36D351-79EE-48C0-98B4-E75B68012DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
